@@ -2,12 +2,12 @@
 ## README ##
 A completely customizable, multi-purpose input device that can be programmed to fit your needs. By default, it has four modes that can be switched using the Dial's push switch capability.<br/>
 The four default modes are:
-<ul>
+<ol>
   <li>System Master Volume Control</li>
   <li>Switch between Active Windows</li>
   <li>Switch between Browser Tabs</li>
   <li>Zoom in/out of a webpage</li>
-</ul>
+</ol>
 <br/> The currently active mode is indicated using two onboard LED lamps, where each lamp represents one bit [(00, 01, 10, 11)<sub>2</sub> => (0,1,2,3)<sub>10</sub>] 
 <br/>
 The device also comes with 3 capacitive touch-sensitive switches, each having their functionalities. By default, these are set to:
