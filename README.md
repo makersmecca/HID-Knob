@@ -1,6 +1,6 @@
 ## HID based Knob Using Arduino Micro ##
 ## README ##
-A completely customizable, multi-purpose input device that can be programmed to fit your needs. By default, it has four modes that can be switched using the Dial's push switch capability.<br/>
+A completely customizable, multi-purpose input device that can be programmed to fit your needs. No additional software is required to use this device in its default configuration. By default, it has four modes that can be switched using the Dial's push switch capability.<br/>
 The four default modes are:
 <ol>
   <li>System Master Volume Control</li>
