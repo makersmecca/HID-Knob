@@ -8,7 +8,7 @@ The four default modes are:
   <li>Switch between Browser Tabs</li>
   <li>Zoom in/out of a webpage</li>
 </ol>
-The currently active mode is indicated using two onboard LED lamps, where each lamp represents one bit {(00, 01, 10, 11)<sub>2</sub> => (0,1,2,3)<sub>10</sub>} <br/> 
+The currently active mode is indicated using two onboard LED lamps, where each lamp represents one bit {(0,1,2,3)<sub>10</sub>  => (00, 01, 10, 11)<sub>2</sub>} <br/> 
 <br/>
 The device also comes with 3 capacitive touch-sensitive switches, each having their functionalities. By default, these are set to:
 <ul>
